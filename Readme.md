@@ -1,7 +1,6 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Рузаль Инсапов](https://up.htmlacademy.ru/htmlcss/26/user/635869).
-* Наставник: [Дмитрий Казанцев](https://htmlacademy.ru/profile/id24186)
 
 ---
 
